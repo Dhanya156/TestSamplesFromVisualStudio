@@ -8,6 +8,8 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Welcome to GitHub");
+            Console.WriteLine("Hi");
+
         }
     }
 }
